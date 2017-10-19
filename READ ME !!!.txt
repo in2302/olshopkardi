@@ -1,0 +1,12 @@
+=============================
+Dibuild oleh :
+-Iman Nurdian   157006009
+-Ichsan Nurul H.  157006022
+-Andhika Rahma P.   157006023
+-Reza Rizky R.		157006042
+=============================
+Notice :
+1.Nama Database "kardi_kios", import file "karshop_db.sql"
+2.Konfigurasi file "admin/config.php", default username ="root" tanpa password
+3.Login = username : admin
+          password : admin
